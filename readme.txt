@@ -6,3 +6,4 @@ git is a diatributed version control system
 git is free software distributed under the gpl
 git has mutable index called  stage
 git tracks changes
+git  tracks  changes  of  files
